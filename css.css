@@ -1,0 +1,35 @@
+html {
+    background-color:antiquewhite
+}
+
+#mainContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: antiquewhite;
+}
+
+#eingabe {
+    margin-top: 25px;
+    background-color: antiquewhite;
+}
+
+#hinzu {
+    background-color: white;
+    color: black;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+#toDoContainer {
+    height: auto;
+    width: 500px;
+}
+
+p {
+    text-align: center;
+    background-color: white;
+    color: black;
+    cursor: pointer;
+}
